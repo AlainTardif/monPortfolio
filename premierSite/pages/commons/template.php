@@ -9,9 +9,6 @@
   </head>
 
   <body>
-      <h1>C'est ok</h1>
-
-  <?= $content ?>
-  <script src="js/index.js"></script>
+     <?= $content ?>
   </body>
 </html>
