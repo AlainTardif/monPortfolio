@@ -1,4 +1,4 @@
 <?php 
-$content = "Alain";
+$content = "Contact";
 require "commons/template.php";
 ?>
